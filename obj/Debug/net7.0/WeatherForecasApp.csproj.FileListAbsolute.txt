@@ -1,0 +1,14 @@
+C:\MYAZ203\WeatherForcaseApp\bin\Debug\net7.0\WeatherForecasApp.exe
+C:\MYAZ203\WeatherForcaseApp\bin\Debug\net7.0\WeatherForecasApp.deps.json
+C:\MYAZ203\WeatherForcaseApp\bin\Debug\net7.0\WeatherForecasApp.runtimeconfig.json
+C:\MYAZ203\WeatherForcaseApp\bin\Debug\net7.0\WeatherForecasApp.dll
+C:\MYAZ203\WeatherForcaseApp\bin\Debug\net7.0\WeatherForecasApp.pdb
+C:\MYAZ203\WeatherForcaseApp\obj\Debug\net7.0\WeatherForecasApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MYAZ203\WeatherForcaseApp\obj\Debug\net7.0\WeatherForecasApp.AssemblyInfoInputs.cache
+C:\MYAZ203\WeatherForcaseApp\obj\Debug\net7.0\WeatherForecasApp.AssemblyInfo.cs
+C:\MYAZ203\WeatherForcaseApp\obj\Debug\net7.0\WeatherForecasApp.csproj.CoreCompileInputs.cache
+C:\MYAZ203\WeatherForcaseApp\obj\Debug\net7.0\WeatherForecasApp.dll
+C:\MYAZ203\WeatherForcaseApp\obj\Debug\net7.0\refint\WeatherForecasApp.dll
+C:\MYAZ203\WeatherForcaseApp\obj\Debug\net7.0\WeatherForecasApp.pdb
+C:\MYAZ203\WeatherForcaseApp\obj\Debug\net7.0\WeatherForecasApp.genruntimeconfig.cache
+C:\MYAZ203\WeatherForcaseApp\obj\Debug\net7.0\ref\WeatherForecasApp.dll
